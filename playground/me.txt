@@ -1,0 +1,5 @@
+{{#user}
+Name: Shiv Kumar Choudhary
+Skills: HTML, CSS, JS, React.js, Node.js, SpringBoot,Java, MySQL,Mongodb,Express.js
+Email: shivchoudhary369@gmail.com
+{{/user}}
